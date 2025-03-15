@@ -12,10 +12,6 @@ refres rate display sesuai kemampuan device
 
 > Dari semua Efek yang saya jelaskan di atas itu pada akhir nya bergantung pada device and cipset apa yang kalian gunakan
 
-## ⚠️ Notes :
-- Script ini dalam tahap pengujian / Exeprimen, jadi bisa di nyatakan fake or don't fake , kalian simpulin sendiri scriptnya jikalo fake makan sampe di sini aja kalo don't fake kita terusin dill
-
-
 ## Recomened ❓️
 - Gaming
 - Multiasking
